@@ -1,0 +1,17 @@
+# 📌 Requirement
+
+## 1. Business Requirement
+- Hệ thống hỗ trợ quản lý chuỗi cửa hàng hải sản Odnoliub tại nội ô thành phố Cần Thơ.
+- Có 5 người dùng chính sử dụng hệ thống: Admin, Customer, Sales Staff, Delevery Staff, Business Owner
+- Hệ thống được ra đời nhằm cung cấp cho Business Owner một công cụ để quản lý chuỗi cửa hàng của doanh nghiệp, đồng thời giúp cho việc khách hàng có thể tham khảo các sản phẩm bên cửa hàng, quá trình đặt hàng và mua hàng cũng trở nên thuận tiện và dễ dàng. 
+## 2. Functional Requirement
+- Admin: Người quản trị của hệ thống, quản trị các tài khoản, thống kê các thông số của các tài khoản, các vấn đề của hệ thống
+- Business Owner: Nhập xuất số lượng hàng, thống kê doanh thu, thống kê xu hướng tiêu dùng của khách hàng, thống kê số lượng hàng, quản lý tài khoản nhân viên, phân công ca làm việc cho nhân viên, chấm công nhân viên
+- Sales Staff: quản lý đơn hàng, quản lý hóa đơn, chấm công trên hệ thống, quản lý thông tin cá nhân, quản lý kho, kiểm tra quá trình giao dịch của các đơn hàng
+- Delivery Staff: quản lý đơn hàng, quản lý trả hàng, quản lý thông tin cá nhân, chấm công,
+- Customer: có khách hàng vãng lai và khách hàng đã đăng nhập, đặt hàng, thêm hàng vào giỏ, đăng ký tài khoản, đăng nhập, cập nhật tình trạng đơn hàng, kiểm tra lịch sử mua hàng, đánh giá sản phẩm, xem quá trình giao hàng, thanh toán đơn hàng (online hoặc tiền mặt)
+
+## 3. Non-Functional Requirement
+- Hệ thống phải phục vụ ít nhất 100 người dùng cùng lúc.
+- Thời gian phản hồi < 3s.
+- Thời gian xử lý các giao dịch online trên hệ thống < 3s.
